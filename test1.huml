@@ -1,0 +1,13 @@
+%html {
+  %head {
+    %script
+    %link
+  }
+  %body {
+    %h1.title= "title text"
+    %div.content {
+      %p= "paragraph 1"
+      %p= "paragraph 2"
+    }
+  }
+}
